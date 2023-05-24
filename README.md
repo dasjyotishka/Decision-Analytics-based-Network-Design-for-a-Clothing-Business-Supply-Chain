@@ -1,4 +1,4 @@
-# Network-Design-for-a-Clothing-Business-Supply-Chain
+# Decision Analytics based Network Design for a Clothing Business Supply Chain
 A project based on a case study on optimization methods to evaluate whether to construct or extend existing distribution centres to sustain growth of a clothing brand. The project was done as a part of the course on Decision Analytics for the Masters in Data Sciences and Business Analytics at ESSEC Business School and CentraleSupélec, Paris.
 
 # Introduction
